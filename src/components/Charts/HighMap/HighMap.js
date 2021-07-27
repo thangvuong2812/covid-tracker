@@ -34,7 +34,7 @@ const initOptions = {
     },
     series: [
         {
-            name: 'Dân số',
+            name: 'Số ca',
             joinBy: ['hc-key', 'key'],
         },
     ],
